@@ -1,0 +1,100 @@
+
+/* ===== Hero Tagline ===== */
+.hero-tagline {
+  text-align: center;
+  margin: 2rem auto 1.5rem;
+  max-width: 800px;
+  padding: 2.5rem 2rem;
+  position: relative;
+  overflow: hidden;
+  border-radius: 16px;
+  background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(236,72,153,0.06) 50%, rgba(245,158,11,0.06) 100%);
+  border: 1px solid rgba(99,102,241,0.12);
+}
+
+[data-theme="dark"] .hero-tagline {
+  background: linear-gradient(135deg, rgba(99,102,241,0.1) 0%, rgba(236,72,153,0.1) 50%, rgba(245,158,11,0.1) 100%);
+  border-color: rgba(99,102,241,0.2);
+}
+
+.hero-tagline::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: conic-gradient(
+    from 0deg,
+    transparent 0deg 340deg,
+    rgba(99,102,241,0.08) 340deg 360deg
+  );
+  animation: heroSpin 8s linear infinite;
+  z-index: 0;
+}
+
+@keyframes heroSpin {
+  to { transform: rotate(360deg); }
+}
+
+.hero-tagline-text {
+  position: relative;
+  z-index: 1;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.6;
+  letter-spacing: -0.01em;
+}
+
+.hero-tagline-text .gradient-word {
+  background: linear-gradient(135deg, #6366f1 0%, #ec4899 50%, #f59e0b 100%);
+  background-size: 200% 200%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: heroGradient 4s ease-in-out infinite;
+}
+
+@keyframes heroGradient {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+.hero-tagline-text .typewriter {
+  display: inline;
+  border-right: 2.5px solid #6366f1;
+  animation: blink 0.8s step-end infinite;
+  padding-right: 2px;
+}
+
+[data-theme="dark"] .hero-tagline-text .typewriter {
+  border-right-color: #818cf8;
+}
+
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+
+.hero-tagline-sub {
+  position: relative;
+  z-index: 1;
+  margin-top: 0.8rem;
+  font-size: 1rem;
+  color: #6b7280;
+  font-weight: 400;
+}
+
+[data-theme="dark"] .hero-tagline-sub {
+  color: #9ca3af;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .hero-tagline {
+    margin: 1.5rem 0.5rem;
+    padding: 1.8rem 1.2rem;
+  }
+  .hero-tagline-text {
+    font-size: 1.2rem;
+  }
+}

@@ -32,7 +32,16 @@ buildExpired = false
 
   [params.homeInfoParams]
     Title = "Your Trusted Guide to Better Health"
-    Content = "Evidence-based articles on sleep, gut health, anxiety relief, and natural wellness. Science-backed tips you can trust."
+    Content = """
+<div class="hero-tagline">
+  <div class="hero-tagline-text">
+    <span class="gradient-word">AI</span> 知道世界上所有的知识，<br>为什么不能<span class="gradient-word typewriter">为你所用</span>？
+  </div>
+  <div class="hero-tagline-sub">— Wellness Pulse, powered by AI</div>
+</div>
+
+Evidence-based articles on sleep, gut health, anxiety relief, and natural wellness. Science-backed tips you can trust.
+"""
 
   [[params.socialIcons]]
     name = "rss"
