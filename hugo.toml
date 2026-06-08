@@ -1,0 +1,104 @@
+baseURL = "https://wellnesspulse.co"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Wellness Pulse"
+theme = "PaperMod"
+[pagination]
+  pagerSize = 20
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  env = "production"
+  description = "Evidence-based health tips, natural remedies, and wellness guides for better sleep, gut health, anxiety relief, and more."
+  keywords = ["health tips", "natural remedies", "sleep improvement", "gut health", "anxiety relief", "wellness", "holistic health"]
+  author = "Wellness Pulse Team"
+  defaultTheme = "light"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+
+  [params.homeInfoParams]
+    Title = "Your Trusted Guide to Better Health"
+    Content = "Evidence-based articles on sleep, gut health, anxiety relief, and natural wellness. Science-backed tips you can trust."
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "index.xml"
+
+  [params.assets]
+    favicon = "/favicon.ico"
+    disableFingerprinting = true
+
+  [params.cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+    style = "monokai"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[[menu.main]]
+  identifier = "menu-sleep"
+  name = "Sleep"
+  url = "/categories/sleep/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "menu-gut-health"
+  name = "Gut Health"
+  url = "/categories/gut-health/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "menu-anxiety"
+  name = "Anxiety"
+  url = "/categories/anxiety/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "menu-natural-remedies"
+  name = "Natural Remedies"
+  url = "/categories/natural-remedies/"
+  weight = 40
+
+[[menu.main]]
+  identifier = "menu-nutrition"
+  name = "Nutrition"
+  url = "/categories/nutrition/"
+  weight = 50
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[minify]
+  disableXML = true
+  minifyOutput = true
