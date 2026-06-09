@@ -4,13 +4,13 @@ date: 2026-06-08T10:00:00+08:00
 draft: false
 ---
 
-## Privacy Policy for Wellness Pulse
+## Privacy Policy for VitalEdge
 
 **Last updated: June 8, 2026**
 
 ### Information We Collect
 
-Wellness Pulse ("we," "our," or "us") collects information when you visit our website, including:
+VitalEdge ("we," "our," or "us") collects information when you visit our website, including:
 
 - **Automatically collected information:** IP address, browser type, operating system, referring URLs, pages visited, and time spent on pages through cookies and similar technologies.
 - **Information you provide:** Email address when subscribing to our newsletter or contacting us.

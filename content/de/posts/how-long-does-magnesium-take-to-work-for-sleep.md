@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 Wenn Sie seit Langem unter unruhigen Nächten leiden, haben Sie wahrscheinlich schon gehört, dass Magnesium helfen kann. Aber wie lange braucht Magnesium, um beim Schlafen zu wirken? Die Antwort hängt von der Art des Magnesiums ab, das Sie einnehmen, von Ihrem aktuellen Mangelgrad und davon, wie konsequent Sie es verwenden.

@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 Vous passez environ un tiers de votre vie à dormir. Cela représente quelque 26 années passées au lit. Si votre position de sommeil est mal alignée, vous annulez tous vos efforts posturaux de la journée, nuit après nuit. Voici comment corriger votre posture pendant le sommeil.

@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 # Entzündungshemmender Ernährungsplan für Anfänger

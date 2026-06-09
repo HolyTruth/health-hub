@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 L'ashwagandha (Withania somnifera) est utilisée en médecine ayurvédique depuis plus de 3 000 ans, et la science moderne commence à rattraper son retard. Si vous l'envisagez pour l'anxiété, le timing compte. Voici quand prendre de l'ashwagandha pour un soulagement maximal de l'anxiété.

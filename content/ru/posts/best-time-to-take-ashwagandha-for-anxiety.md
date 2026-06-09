@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 Ashwagandha (Withania somnifera) применяется в аюрведической медицине уже более 3000 лет, и современная наука постепенно подтверждает её эффективность. Если вы рассматриваете её для снятия тревожности, время приёма имеет значение. Рассказываем, когда лучше принимать ashwagandha для максимального облегчения тревожности.

@@ -1,12 +1,12 @@
 ---
-title: "About Wellness Pulse"
+title: "About VitalEdge"
 date: 2026-06-08T10:00:00+08:00
 draft: false
 ---
 
 ## Our Mission
 
-Welcome to Wellness Pulse — your trusted source for evidence-based health and wellness information.
+Welcome to VitalEdge — your trusted source for evidence-based health and wellness information.
 
 In a world full of health misinformation and fad diets, we're committed to providing you with **science-backed, practical health guidance** you can actually use in your daily life.
 
@@ -22,7 +22,7 @@ Our team researches and writes about:
 
 ## Our Approach
 
-Every article on Wellness Pulse follows these principles:
+Every article on VitalEdge follows these principles:
 
 1. **Evidence-based** — We cite peer-reviewed research and reputable sources
 2. **Practical** — Our advice is actionable, not theoretical
@@ -40,7 +40,7 @@ Our content goes through a rigorous process:
 
 ## Medical Disclaimer
 
-The content on Wellness Pulse is for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
+The content on VitalEdge is for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
 
 ## Connect With Us
 
@@ -50,4 +50,4 @@ Have a question, suggestion, or topic you'd like us to cover? We'd love to hear 
 
 ---
 
-*Wellness Pulse — Because your health deserves better than clickbait.*
+*VitalEdge — Because your health deserves better than clickbait.*

@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Tim Wellness Pulse"
+author: "Tim VitalEdge"
 ---
 
 Jika Anda telah berjuang dengan malam-malam yang gelisah, Anda mungkin pernah mendengar bahwa magnesium bisa membantu. Tapi, berapa lama magnesium diperlukan untuk bekerja bagi tidur? Jawabannya tergantung pada jenis magnesium yang Anda konsumsi, tingkat kekurangan (defisiensi) Anda saat ini, dan seberapa konsisten Anda menggunakannya.

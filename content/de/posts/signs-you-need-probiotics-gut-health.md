@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 Dein Darm ist die Heimat von Billionen von Bakterien – einige davon sind nützlich, andere schädlich. Wenn das Gleichgewicht in eine falsche Richtung kippt, sendet dein Körper Warnsignale. Hier sind 10 Anzeichen, dass du Probiotika brauchst, um deine Darmgesundheit wiederherzustellen.

@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Tim Wellness Pulse"
+author: "Tim VitalEdge"
 ---
 
 # Rencana Diet Anti-Inflamasi untuk Pemula

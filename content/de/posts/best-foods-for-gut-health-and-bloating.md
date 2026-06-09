@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 Blähungen sind nicht nur unangenehm – sie sind ein Signal Ihres Darms, dass sich etwas ändern muss. Die gute Nachricht? Die richtigen Lebensmittel können Ihre Darmgesundheit verbessern und Blähungen reduzieren. Hier sind 15 wissenschaftlich belegte Lebensmittel, die Ihr Verdauungssystem unterstützen.

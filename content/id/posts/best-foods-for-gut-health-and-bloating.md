@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Tim Wellness Pulse"
+author: "Tim VitalEdge"
 ---
 
 Kembung bukan hanya tidak nyaman. Ini adalah cara usus Anda memberitahu bahwa ada sesuatu yang perlu diubah. Kabar baiknya? Makanan yang tepat dapat meningkatkan kesehatan usus dan mengurangi kembung. Berikut adalah 15 makanan berbasis sains yang mendukung sistem pencernaan Anda.

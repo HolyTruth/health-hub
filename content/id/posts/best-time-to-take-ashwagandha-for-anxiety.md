@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 Ashwagandha (*Withania somnifera*) telah digunakan dalam pengobatan Ayurveda selama lebih dari 3.000 tahun, dan ilmu pengetahuan modern mulai mengikutinya. Jika Anda mempertimbangkannya untuk kecemasan, waktu konsumsi sangat berpengaruh. Berikut ini kapan waktu terbaik minum ashwagandha untuk meredakan kecemasan secara maksimal.

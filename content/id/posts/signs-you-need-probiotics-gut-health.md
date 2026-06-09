@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 Usus Anda adalah rumah bagi triliunan bakteri, beberapa menguntungkan, beberapa merugikan. Ketika keseimbangannya terganggu, tubuh Anda mengirimkan sinyal peringatan. Berikut adalah 10 tanda Anda membutuhkan probiotik untuk mengembalikan kesehatan usus Anda.

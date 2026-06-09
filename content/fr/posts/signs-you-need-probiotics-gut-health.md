@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 Votre intestin abrite des billions de bactéries, certaines utiles, d'autres nocives. Lorsque l'équilibre penche dans le mauvais sens, votre corps envoie des signaux d'alerte. Voici 10 signes indiquant que vous avez besoin de probiotiques pour rétablir votre santé intestinale.

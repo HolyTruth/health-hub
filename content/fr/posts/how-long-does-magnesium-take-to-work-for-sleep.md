@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 Si vous luttez contre des nuits agitées, vous avez probablement entendu dire que le magnésium peut aider. Mais combien de temps faut-il au magnésium pour agir sur le sommeil ? La réponse dépend du type de magnésium que vous prenez, de votre niveau actuel de carence et de la régularité de votre consommation.

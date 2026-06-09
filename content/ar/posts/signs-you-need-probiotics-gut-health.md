@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 أمعاؤك هي موطن لتريليونات البكتيريا، بعضها مفيد وبعضها ضار. عندما يختل التوازن، يبدأ جسمك في إرسال إشارات تحذيرية. إليك 10 علامات تشير إلى أنك بحاجة إلى probiotics لاستعادة صحة أمعائك.

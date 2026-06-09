@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 Les ballonnements ne sont pas simplement désagréables. Ils sont le signe que votre intestin vous dit que quelque chose doit changer. La bonne nouvelle ? Les bons aliments peuvent améliorer votre santé intestinale et réduire les ballonnements. Voici 15 aliments appuyés par la science qui soutiennent votre système digestif.

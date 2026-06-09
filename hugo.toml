@@ -93,7 +93,7 @@ buildExpired = false
 [params]
   env = "production"
   description = "Evidence-based health tips, natural remedies, and wellness guides."
-  author = "Wellness Pulse Team"
+  author = "VitalEdge Team"
   defaultTheme = "light"
   ShowReadingTime = true
   ShowShareButtons = true
@@ -111,7 +111,7 @@ buildExpired = false
   displayFullLangName = true
 
   [params.homeInfoParams]
-    Title = "Wellness Pulse"
+    Title = "VitalEdge"
     Content = "Evidence-based articles on sleep, gut health, anxiety relief, and natural wellness. Science-backed tips you can trust."
 
   [[params.socialIcons]]

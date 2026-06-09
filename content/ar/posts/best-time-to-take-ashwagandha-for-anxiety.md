@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 استُخدمت الأشواجاندا (Withania somnifera) في الطب الآيورفيدي منذ أكثر من 3000 عام، والعلم الحديث يدرك أهميتها تدريجياً. إذا كنت تفكر في استخدامها للقلق، فإن التوقيت مهم. إليك متى يجب تناول الأشواجاندا لتحقيق أقصى قدر من تخفيف القلق.

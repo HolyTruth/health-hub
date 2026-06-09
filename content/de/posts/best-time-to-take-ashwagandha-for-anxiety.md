@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 Ashwagandha (Withania somnifera) wird in der ayurvedischen Medizin seit über 3.000 Jahren verwendet, und die moderne Wissenschaft holt auf. Wenn Sie es gegen Angstzustände erwägen, ist der Zeitpunkt wichtig. Hier erfahren Sie, wann Sie Ashwagandha für maximale Angstlinderung einnehmen sollten.

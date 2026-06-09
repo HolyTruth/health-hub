@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 # শিক্ষানবিসদের জন্য প্রদাহবিরোধী ডায়েট প্ল্যান

@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 आपकी आंत खरबों बैक्टीरिया का घर है, कुछ मददगार, कुछ हानिकारक। जब संतुलन बिगड़ जाता है, तो आपका शरीर चेतावनी संकेत भेजता है। यहां 10 संकेत दिए गए हैं कि आपको अपना आंत स्वास्थ्य बहाल करने के लिए probiotics की आवश्यकता है।

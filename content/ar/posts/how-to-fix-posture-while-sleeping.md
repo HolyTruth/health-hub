@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 تقضي تقريبًا ثلث حياتك في النوم. وهذا يعادل حوالي 26 سنة تقضيها في السرير. إذا كانت وضعية نومك غير مصطفية، فأنت تلغي جهود تحسين قوامك في النهار كل ليلة. إليك كيفية إصلاح وضعية جسمك أثناء النوم.

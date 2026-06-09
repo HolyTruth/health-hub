@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 Sie verbringen etwa ein Drittel Ihres Lebens schlafend. Das sind ungefähr 26 Jahre im Bett. Wenn Ihre Schlafposition fehlerhaft ist, untergraben Sie jede Nacht Ihre tagsüber erzielten Fortschritte in Sachen Haltung. Hier erfahren Sie, wie Sie Ihre Haltung im Schlaf korrigieren.

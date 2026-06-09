@@ -17,7 +17,7 @@ Have a health topic you'd like us to cover? We're always looking for new ideas t
 📧 **Email:** content@wellnesspulse.co
 
 ### Advertising & Partnerships
-Interested in advertising on Wellness Pulse or exploring a partnership?
+Interested in advertising on VitalEdge or exploring a partnership?
 
 📧 **Email:** partnerships@wellnesspulse.co
 
@@ -28,4 +28,4 @@ For privacy-related inquiries, please see our [Privacy Policy](/privacy-policy/)
 
 ---
 
-We typically respond within 48 hours. Thank you for your interest in Wellness Pulse!
+We typically respond within 48 hours. Thank you for your interest in VitalEdge!

@@ -14,7 +14,7 @@ cover:
   relative: false
 showToc: true
 TocOpen: true
-author: "Wellness Pulse Team"
+author: "VitalEdge Team"
 ---
 
 Anda menghabiskan sepertiga hidup Anda untuk tidur. Itu sekitar 26 tahun yang dihabiskan di tempat tidur. Jika posisi tidur Anda tidak selarasm, setiap malam Anda membatalkan upaya memperbaiki postur di siang hari. Berikut cara memperbaiki postur saat tidur.
