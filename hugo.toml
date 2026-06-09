@@ -1,8 +1,8 @@
 baseURL = "https://health-hub-mauve-eta.vercel.app"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Wellness Pulse"
 theme = "PaperMod"
+
 [pagination]
   pagerSize = 20
 enableRobotsTXT = true
@@ -10,10 +10,89 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en"
+    weight = 1
+    contentDir = "content/en"
+    [languages.en.params]
+      description = "Evidence-based health tips, natural remedies, and wellness guides for better sleep, gut health, anxiety relief, and more."
+  [languages.zh]
+    languageName = "中文"
+    languageCode = "zh"
+    weight = 2
+    contentDir = "content/zh"
+    [languages.zh.params]
+      description = "循证健康建议、自然疗法和健康指南，涵盖睡眠、肠道健康、焦虑缓解等。"
+  [languages.es]
+    languageName = "Español"
+    languageCode = "es"
+    weight = 3
+    contentDir = "content/es"
+    [languages.es.params]
+      description = "Consejos de salud basados en evidencia, remedios naturales y guías de bienestar para mejorar el sueño, la salud intestinal y más."
+  [languages.pt]
+    languageName = "Português"
+    languageCode = "pt"
+    weight = 4
+    contentDir = "content/pt"
+    [languages.pt.params]
+      description = "Dicas de saúde baseadas em evidências, remédios naturais e guias de bem-estar para melhor sono, saúde intestinal e mais."
+  [languages.fr]
+    languageName = "Français"
+    languageCode = "fr"
+    weight = 5
+    contentDir = "content/fr"
+    [languages.fr.params]
+      description = "Conseils de santé fondés sur des preuves, remèdes naturels et guides de bien-être pour un meilleur sommeil, la santé intestinale et plus."
+  [languages.de]
+    languageName = "Deutsch"
+    languageCode = "de"
+    weight = 6
+    contentDir = "content/de"
+    [languages.de.params]
+      description = "Evidenzbasierte Gesundheitstipps, natürliche Heilmittel und Wellness-Leitfäden für besseren Schlaf, Darmgesundheit und mehr."
+  [languages.ru]
+    languageName = "Русский"
+    languageCode = "ru"
+    weight = 7
+    contentDir = "content/ru"
+    [languages.ru.params]
+      description = "Основанные на доказательствах советы по здоровью, натуральные средства и руководства по здоровому образу жизни."
+  [languages.ar]
+    languageName = "العربية"
+    languageCode = "ar"
+    weight = 8
+    contentDir = "content/ar"
+    rtl = true
+    [languages.ar.params]
+      description = "نصائح صحية مبنية على الأدلة، علاجات طبيعية وأدلة العافية لتحسين النوم وصحة الأمعاء وتخفيف القلق."
+  [languages.hi]
+    languageName = "हिन्दी"
+    languageCode = "hi"
+    weight = 9
+    contentDir = "content/hi"
+    [languages.hi.params]
+      description = "साक्ष्य-आधारित स्वास्थ्य सुझाव, प्राकृतिक उपचार और बेहतर नींद, आंत स्वास्थ्य, चिंता राहत के लिए कल्याण मार्गदर्शिका।"
+  [languages.bn]
+    languageName = "বাংলা"
+    languageCode = "bn"
+    weight = 10
+    contentDir = "content/bn"
+    [languages.bn.params]
+      description = "প্রমাণ-ভিত্তিক স্বাস্থ্য টিপস, প্রাকৃতিক প্রতিকার এবং উন্নত ঘুম, অন্ত্রের স্বাস্থ্য এবং উদ্বেগ হ্রাসের জন্য সুস্থতা গাইড।"
+  [languages.id]
+    languageName = "Indonesia"
+    languageCode = "id"
+    weight = 11
+    contentDir = "content/id"
+    [languages.id.params]
+      description = "Tips kesehatan berbasis bukti, obat alami, dan panduan kesehatan untuk tidur lebih baik, kesehatan usus, dan mengurangi kecemasan."
+
 [params]
   env = "production"
-  description = "Evidence-based health tips, natural remedies, and wellness guides for better sleep, gut health, anxiety relief, and more."
-  keywords = ["health tips", "natural remedies", "sleep improvement", "gut health", "anxiety relief", "wellness", "holistic health"]
+  description = "Evidence-based health tips, natural remedies, and wellness guides."
   author = "Wellness Pulse Team"
   defaultTheme = "light"
   ShowReadingTime = true
@@ -29,19 +108,11 @@ buildExpired = false
   hidemeta = false
   hideSummary = false
   showtoc = true
+  displayFullLangName = true
 
   [params.homeInfoParams]
-    Title = "Your Trusted Guide to Better Health"
-    Content = """
-<div class="hero-tagline">
-  <div class="hero-tagline-text">
-    <span class="gradient-word">AI</span> 知道世界上所有的知识，<br>为什么不能<span class="gradient-word typewriter">为你所用</span>？
-  </div>
-  <div class="hero-tagline-sub">— Wellness Pulse, powered by AI</div>
-</div>
-
-Evidence-based articles on sleep, gut health, anxiety relief, and natural wellness. Science-backed tips you can trust.
-"""
+    Title = "Wellness Pulse"
+    Content = "Evidence-based articles on sleep, gut health, anxiety relief, and natural wellness. Science-backed tips you can trust."
 
   [[params.socialIcons]]
     name = "rss"
@@ -73,6 +144,7 @@ Evidence-based articles on sleep, gut health, anxiety relief, and natural wellne
   category = "categories"
   tag = "tags"
 
+# English menu
 [[menu.main]]
   identifier = "menu-sleep"
   name = "Sleep"
